@@ -11,6 +11,9 @@ keyboard = InlineKeyboardMarkup(
             InlineKeyboardButton(
                 text="sᴏᴜʀᴄᴇ", url="https://github.com/RealKronos69/StringSGENbot"
             ),
+            InlineKeyboardButton(
+                text="ᴅᴇᴠᴇʟᴏᴘᴇʀ", url="https://t.me/fakekronos"
+            ),
         ],
     ]
 )
