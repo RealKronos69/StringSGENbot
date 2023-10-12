@@ -12,18 +12,16 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [Sᴛʀɪɴɢ Sᴇ�
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-<a href="https://github.com/AnonymousX1025/StringGenBot/stargazers"><img src="https://img.shields.io/github/stars/AnonymousX1025/StringGenBot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars"/></a>
-<a href="https://github.com/AnonymousX1025/StringGenBot/network/members"> <img src="https://img.shields.io/github/forks/AnonymousX1025/StringGenBot?color=black&logo=github&logoColor=black&style=for-the-badge"/></a>
-<a href="https://github.com/AnonymousX1025/StringGenBot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License"/></a>
+<a href="https://github.com/RealKronos69/StringSGENbot/stargazers"><img src="https://img.shields.io/github/stars/RealKronos69/StringSGENbot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars"/></a>
+<a href="https://github.com/RealKronos69/StringSGENbot/network/members"> <img src="https://img.shields.io/github/forks/RealKronos69/StringSGENbot?color=black&logo=github&logoColor=black&style=for-the-badge"/></a>
+<a href="https://github.com/RealKronos69/StringSGEBbot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License"/></a>
 <a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-skyblue?style=for-the-badge&logo=python" alt="Python"/></a>
-<a href="https://github.com/AnonymousX1025/StringGenBot/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/AnonymousX1025/StringGenBot?color=black&logo=github&logoColor=black&style=for-the-badge"/></a>
+<a href="https://github.com/RealKronos69/StringSGENbot/commits/RealKronos69"> <img src="https://img.shields.io/github/last-commit/RealKronos69/StringSGENbot?color=black&logo=github&logoColor=black&style=for-the-badge"/></a>
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
 
-<p align="center">
-  <img src="https://te.legra.ph/file/7871ceddf5ab4a6787182.jpg">
-</p>
+
 
 <p align="center">
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
@@ -83,15 +81,4 @@ Press `Ctrl+b` and then `d`
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
-
-<h3 align="center">
-    ─「 ᴄʀᴇᴅɪᴛs 」─
-</h3>
-
-- <b>[KRONOS](https://github.com/RealKronos69)  ғᴏʀ  [ғᴀʟʟᴇɴ ᴍᴜsɪᴄ](https://github.com/AnonymousX1025/FallenMusic)</b>
-- <b>[ᴅᴀɴ](https://github.com/delivrance)  ғᴏʀ  [ᴘʏʀᴏɢʀᴀᴍ](https://github.com/pyrogram/pyrogram)</b>
-- <b>[ʟᴏɴᴀᴍɪ](https://github.com/Lonami)  ғᴏʀ  [ᴛᴇʟᴇᴛʜᴏɴ](https://github.com/LonamiWebs/Telethon)</b>
-
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/RealKronos69/StringGENbot/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ sᴛʀɪɴɢ ɢᴇɴ ʙᴏᴛ ᴜsᴇғᴜʟ 🖤</b>
-
 ━━━━━━━━━━━━━━━━━━━━
