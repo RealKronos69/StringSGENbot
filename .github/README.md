@@ -8,7 +8,7 @@
   <img src="https://telegra.ph/file/67d154254214ba4ad51c9.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [sᴛʀɪɴɢ ғᴀᴛʜᴇʀ](https://t.me/StringSession_GenBot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [Sᴛʀɪɴɢ Sᴇꜱꜱɪᴏɴ Gᴇɴʙᴏᴛ](https://t.me/StringSession_GenBot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
