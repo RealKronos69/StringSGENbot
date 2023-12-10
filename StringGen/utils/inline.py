@@ -9,10 +9,12 @@ keyboard = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(text="˹sᴜᴘᴘᴏʀᴛ˼", url=SUPPORT_CHAT),
             InlineKeyboardButton(
-                text="˹sᴏᴜʀᴄᴇ˼", url="https://t.me/+GkLaLBJaevM1ZjY9"
+                text="˹ᴄʜᴀɴɴᴇʟ˼", url="https://t.me/kronoxbots"
             ),
+        ],
+        [
             InlineKeyboardButton(
-                text="˹ᴅᴇᴠᴇʟᴏᴘᴇʀ˼", url="https://t.me/fakekronos"
+                text="˹ᴅᴇᴠᴇʟᴏᴘᴇʀ˼", url="https://t.me/realkronos"
             ),
         ],
     ]
